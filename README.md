@@ -1,17 +1,17 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lucas%20Pontes%20Lira&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20IA%20%E2%80%A2%20Tecnologia%20em%20Sa%C3%BAde&descAlignY=58&descSize=16" alt="Lucas Pontes Lira" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:dc2626&height=180&section=header&text=Lucas%20Pontes%20Lira&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20IA%20%E2%80%A2%20Tecnologia%20em%20Sa%C3%BAde&descAlignY=58&descSize=16" alt="Lucas Pontes Lira" />
 </p>
 
 <p align="center">
   <a href="https://lucaslira11.github.io/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-lira-79b339272/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lucasponteslira@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Sou desenvolvedor **Full Stack** e estudante de **Sistemas de Informação no CE
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/Webhooks-334155?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Webhooks-27272a?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks" />
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS" />
 </p>
 
@@ -85,15 +85,15 @@ Sou desenvolvedor **Full Stack** e estudante de **Sistemas de Informação no CE
 ### 📊 Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasLira11&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=64748b&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLira11&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b&langs_count=6" alt="Top linguagens" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasLira11&show_icons=true&hide_border=true&theme=transparent&title_color=dc2626&icon_color=dc2626&text_color=71717a&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLira11&layout=compact&hide_border=true&theme=transparent&title_color=dc2626&text_color=71717a&langs_count=6&cache_seconds=86400" alt="Top linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasLira11&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=94a3b8" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=LucasLira11&hide_border=true&theme=transparent&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=71717a&dates=a1a1aa" alt="Streak" />
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:18181b&height=100&section=footer" alt="" />
 </p>
